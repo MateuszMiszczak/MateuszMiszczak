@@ -24,7 +24,7 @@ Feel free to check out my latest projects to see these technologies in action!
   <img src="./assets/css3-alt.svg" alt="CSS3" style="width: 30px;"/>
   <img src="./assets/sass.svg" alt="Sass" style="width: 42px;"/>
   <img src="./assets/tailwind-css.svg" alt="Tailwind" style="width: 42px;"/>
-  <img src="./assets/framer-motion.svg" alt="Framer-motion" style="width: 32px;"/>
+  <img src="./assets/framer-motion.svg" alt="Framer-motion" style="width: 28px;"/>
   <img src="./assets/shadcn.png" alt="Shadcn UI" style="width: 35px;"/>
   <img src="./assets/mui.svg" alt="Material UI" style="width: 40px;"/>
   <img src="./assets/bootstrap5.svg" alt="Bootstrap5" style="width: 40px;"/>

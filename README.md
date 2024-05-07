@@ -13,7 +13,7 @@ Feel free to check out my latest projects to see these technologies in action!
 
 ### Current Tech Stack:
 
-<div style="display: flex; gap: 10px; align-items: center; justify-items: center;">
+<div style="display: flex; gap: 14px; align-items: center; justify-items: center;">
   <img src="./assets/nextdotjs.svg" alt="Next" style="width: 38px;"/>
   <img src="./assets/react.svg" alt="React" style="width: 40px;"/>
   <img src="./assets/ts.svg" alt="TypeScript" style="width: 36px;"/>

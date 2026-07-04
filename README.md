@@ -2,12 +2,15 @@
 
 **`Digital Craftsman`**
 
-As a yet junior front-end developer passionate about expanding my expertise, I've embraced new technologies over the past year, notably Next.js, TypeScript, and advanced libraries like Recoil and Tanstack React-query. These tools complement my foundational skills in React, enhancing my ability to create dynamic and responsive applications.
-Additionally, I've delved into CSS libraries for animations and UI components, to further refine and streamline the development process. I've also learned to use Figma and a bit of AdobeXd which enables me to design and prototype websites more efficiently.
+Frontend Developer focused on React, Next.js and TypeScript.
 
-I believe in discipline and consistency as the pillars of professional growth. Outside of programming, my interests include music, fitness, and cultural events. My technical and personal pursuits are driven by a commitment to excellence and a positive, problem-solving attitude. I would love to work in a communicative, like-minded team so we can excel in this field together.
+I build production-ready web applications with a strong focus on maintainable code, clean UI architecture and real business workflows. My recent work includes fintech interfaces, customer portfolio views, multi-step financial flows, admin systems, WebSocket-driven realtime updates and CMS-driven multilingual websites.
 
-Feel free to check out my latest projects to see these technologies in action!
+I enjoy working across the full frontend delivery process — from translating product requirements and designs into responsive interfaces, to integrating APIs, handling complex UI state, improving performance and extracting reusable frontend packages in monorepo environments.
+
+My main stack includes React, Next.js, TypeScript, React Query, Redux Toolkit, Tailwind CSS, MUI, REST APIs, WebSockets, Strapi CMS and Turborepo. I’m also expanding my backend and infrastructure understanding through Node.js, PostgreSQL, Docker, AWS and Terraform basics.
+
+I value consistency, ownership and clear communication. Outside of programming, I’m interested in fitness, music and culture.
 
 ---
 
